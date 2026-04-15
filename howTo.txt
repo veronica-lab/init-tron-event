@@ -8,3 +8,14 @@ Navigate to your project directory:
 --python -m http.server
 -- Open your browser and go to:
 http://localhost:8000/mainPage.html
+
+
+
+More info:
+echo "# init-tron-event" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/veronica-lab/init-tron-event.git
+git push -u origin main
